@@ -5,6 +5,9 @@ Tiesto-Knockout-Text.
 
 ### Inspired by Tiesto and Trance Music.
 
+### Code Editor
+* [Visual Studio Code] (https://code.visualstudio.com)
+
 ### Built With
 * [Materialize] (https://materializecss.com)
 * [jQuery] (https://https://jquery.com)
